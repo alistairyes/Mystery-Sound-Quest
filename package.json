@@ -1,0 +1,29 @@
+{
+  "name": "mystery-sound-quest",
+  "version": "1.0.0",
+  "description": "An Alexa skill game where users guess sounds for fun and learning.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alistairyes/Mystery-Sound-Quest.git"
+  },
+  "keywords": [
+    "mystery",
+    "sounds",
+    "game"
+  ],
+  "author": "David Alfred and GPT4",
+  "license": "ISC",
+  "dependencies": {
+    "ask-sdk-core": "^2.14.0",
+    "ask-sdk-model": "^1.29.0",
+    "aws-sdk": "^2.1510.0"
+  },
+  "bugs": {
+    "url": "https://github.com/alistairyes/Mystery-Sound-Quest/issues"
+  },
+  "homepage": "https://github.com/alistairyes/Mystery-Sound-Quest#readme"
+}
